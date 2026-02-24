@@ -1,0 +1,9 @@
+Requirements -  Multi-Heatmap Visualization App
+
+streamlit
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+scipy
